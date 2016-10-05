@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOpenerClient", "FileOpenerClient.csproj", "{FABA567D-0331-4458-AEA2-F8E18CD325F1}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{FABA567D-0331-4458-AEA2-F8E18CD325F1}.Debug.ActiveCfg = Debug|.NET
+		{FABA567D-0331-4458-AEA2-F8E18CD325F1}.Debug.Build.0 = Debug|.NET
+		{FABA567D-0331-4458-AEA2-F8E18CD325F1}.Release.ActiveCfg = Release|.NET
+		{FABA567D-0331-4458-AEA2-F8E18CD325F1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

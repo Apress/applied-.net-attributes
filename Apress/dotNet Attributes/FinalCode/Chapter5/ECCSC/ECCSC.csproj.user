@@ -1,0 +1,48 @@
+<VisualStudioProject>
+    <CSHARP LastOpenVersion = "7.10.3077" >
+        <Build>
+            <Settings ReferencePath = "C:\Program Files\Microsoft FxCop 1.21\;C:\jbock\Personal\Apress\dotNET Attributes\TR Reviews\Chapter 5\ECFramework\bin\;D:\Personal\APress\dotNET Attributes\Chapter 5 - Applications of Custom Attributes (Jason)\ECFramework\bin\Release\;D:\Personal\APress\dotNET Attributes\Chapter 5 - Applications of Custom Attributes (Jason)\ECFramework\bin\Debug\;C:\jbock\Personal\Apress\dotNET Attributes\Chapter 5 - Application of Custom Attributes (Jason)\ECFramework\bin\Debug\;C:\jbock\Personal\Apress\dotNET Attributes\Chapter 5 - Application of Custom Attributes (Jason)\DBCFramework\bin\Release\;C:\jbock\Personal\Apress\dotNET Attributes\Chapter 5 - Application of Custom Attributes (Jason)\DBCFramework\bin\Debug\;C:\jbock\Personal\Apress\dotNET Attributes\Chapter 5 - Application of Custom Attributes (Jason)\ECFramework\bin\Release\" >
+                <Config
+                    Name = "Debug"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+                <Config
+                    Name = "Release"
+                    EnableASPDebugging = "false"
+                    EnableASPXDebugging = "false"
+                    EnableUnmanagedDebugging = "false"
+                    EnableSQLServerDebugging = "false"
+                    RemoteDebugEnabled = "false"
+                    RemoteDebugMachine = ""
+                    StartAction = "Project"
+                    StartArguments = ""
+                    StartPage = ""
+                    StartProgram = ""
+                    StartURL = ""
+                    StartWorkingDirectory = ""
+                    StartWithIE = "false"
+                />
+            </Settings>
+        </Build>
+        <OtherProjectSettings
+            CopyProjectDestinationFolder = ""
+            CopyProjectUncPath = ""
+            CopyProjectOption = "0"
+            ProjectView = "ProjectFiles"
+            ProjectTrust = "0"
+        />
+    </CSHARP>
+</VisualStudioProject>
+

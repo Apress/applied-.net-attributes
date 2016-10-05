@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalTest", "ConditionalTest\ConditionalTest.csproj", "{A5C80AFD-0F76-4094-8BEB-34B08291E86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceLibrary", "TraceLibrary\TraceLibrary.csproj", "{3D4A57A2-759D-4833-B8BA-9ABB77C528D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A5C80AFD-0F76-4094-8BEB-34B08291E86D}.Debug.ActiveCfg = Debug|.NET
+		{A5C80AFD-0F76-4094-8BEB-34B08291E86D}.Debug.Build.0 = Debug|.NET
+		{A5C80AFD-0F76-4094-8BEB-34B08291E86D}.Release.ActiveCfg = Release|.NET
+		{A5C80AFD-0F76-4094-8BEB-34B08291E86D}.Release.Build.0 = Release|.NET
+		{3D4A57A2-759D-4833-B8BA-9ABB77C528D8}.Debug.ActiveCfg = Debug|.NET
+		{3D4A57A2-759D-4833-B8BA-9ABB77C528D8}.Debug.Build.0 = Debug|.NET
+		{3D4A57A2-759D-4833-B8BA-9ABB77C528D8}.Release.ActiveCfg = Release|.NET
+		{3D4A57A2-759D-4833-B8BA-9ABB77C528D8}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

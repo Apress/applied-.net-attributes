@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterClient", "TesterClient\TesterClient.csproj", "{25C0D0BA-4DD8-495F-AD89-E7B75AE6541C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CustomLibrary", "CustomLibrary\CustomLibrary.vcproj", "{5C745543-C484-407A-93F2-07CA837BFEAC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{25C0D0BA-4DD8-495F-AD89-E7B75AE6541C}.Debug.ActiveCfg = Debug|.NET
+		{25C0D0BA-4DD8-495F-AD89-E7B75AE6541C}.Debug.Build.0 = Debug|.NET
+		{25C0D0BA-4DD8-495F-AD89-E7B75AE6541C}.Release.ActiveCfg = Release|.NET
+		{25C0D0BA-4DD8-495F-AD89-E7B75AE6541C}.Release.Build.0 = Release|.NET
+		{5C745543-C484-407A-93F2-07CA837BFEAC}.Debug.ActiveCfg = Debug|Win32
+		{5C745543-C484-407A-93F2-07CA837BFEAC}.Debug.Build.0 = Debug|Win32
+		{5C745543-C484-407A-93F2-07CA837BFEAC}.Release.ActiveCfg = Release|Win32
+		{5C745543-C484-407A-93F2-07CA837BFEAC}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
